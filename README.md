@@ -8,7 +8,7 @@
   <a href="https://rohanthakur.in"><img src="https://img.shields.io/badge/rohanthakur.in-070707?style=for-the-badge&logo=googlechrome&logoColor=F16B0D" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/rohanthakur05/"><img src="https://img.shields.io/badge/LinkedIn-070707?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0YxNkIwRCIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
   <a href="mailto:contact@rohanthakur.in"><img src="https://img.shields.io/badge/contact@rohanthakur.in-070707?style=for-the-badge&logo=maildotru&logoColor=F16B0D" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=rohancooks&style=for-the-badge&color=E61416&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frohancooks&label=PROFILE%20VIEWS&labelColor=%23070707&countColor=%23e61416&style=for-the-badge" alt="Profile views">
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="">
