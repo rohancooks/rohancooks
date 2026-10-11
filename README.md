@@ -19,7 +19,7 @@
 
 I'm an **AI engineer who works on the business side too**. I build the apps, agents and automations companies actually run on, and I tie every build to a number: hours saved, revenue tracked, decisions made faster.
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" alt=""> &nbsp;**Founder's Office @ Next2Door Living** (EzStays + Basecamp Hostels, ~6,700 beds across 30+ properties)<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" alt=""> &nbsp;**Founder's Office @ Next2Door Living Limited** <br>
 <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20" alt=""> &nbsp;**Claude Certified Associate** · **Oracle Certified GenAI Professional**<br>
 <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="20" alt=""> &nbsp;**IEEE published**: UAV deep learning for wheat disease (STCR 2025)<br>
 <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="20" alt=""> &nbsp;B.Tech ECE, **Delhi Technological University** (2021–25)<br>
