@@ -108,7 +108,7 @@ def chips(x, y, items, size=14, gap=10, max_w=None, fill_first=False, accent="ur
 # ---------------------------------------------------------------- shipped-work terminal
 CYAN, VIOLET, GREEN, YELLOW, PINK, AMBER = "#22d3ee", "#a78bfa", "#4ade80", "#facc15", "#f472b6", "#fb923c"
 PROJECTS = [  # (repo-style name, tag, colour, what it does, stack)
-    ("revenue-occupancy", "growth", CYAN, "live revenue + occupancy across 30+ hostels, ~6,700 beds", "sql · python · power bi"),
+    ("revenue-occupancy", "growth", CYAN, "real-time revenue + occupancy dashboard for leadership", "next.js · apps script · power bi"),
     ("ezstays-mis", "finance", VIOLET, "3 spreadsheets in → linked, drill-down P&L out", "next.js 16 · postgres · exceljs"),
     ("staff-attendance", "ops", GREEN, "selfie + GPS check-ins for on-ground staff · live", "next.js · drizzle · postgres · vercel"),
     ("lead-management", "sales", YELLOW, "enquiry → booking pipeline with DigiLocker KYC", "next.js · digilocker api"),
