@@ -29,7 +29,7 @@ I'm an **AI engineer who works on the business side too**. I build the apps, age
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="">
 
-## What I've shipped
+## What I've shipped!!
 
 <a href="https://rohanthakur.in/#work"><img src="assets/work.svg" width="100%" alt="Terminal listing shipped builds: revenue-occupancy (growth), ezstays-mis (finance), staff-attendance (ops), lead-management (sales), receipt-digitiser (AI), uav-wheat-ai (research)"></a>
 
