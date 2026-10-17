@@ -23,7 +23,7 @@ I'm an **AI engineer who works on the business side too**. I build the apps, age
 <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20" alt=""> &nbsp;**Claude Certified Associate** · **Oracle Certified GenAI Professional**<br>
 <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="20" alt=""> &nbsp;**IEEE published**: UAV deep learning for wheat disease (STCR 2025)<br>
 <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="20" alt=""> &nbsp;B.Tech ECE, **Delhi Technological University** (2021–25)<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="20" alt=""> &nbsp;Ask me about **Claude Code, MCP & agents, MIS / P&L**, or turning spreadsheets into systems
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="20" alt=""> &nbsp;Ask me about **Claude Code, MCP & agents, MIS / P&L, Data Pipelines**, or turning spreadsheets into systems
 
 <br clear="right">
 
